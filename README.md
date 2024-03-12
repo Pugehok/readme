@@ -5,7 +5,7 @@
 
 - 👨‍💻 Связаться со мной вы можете тут[https://portfolio-website-chi-wine.vercel.app/](https://portfolio-website-chi-wine.vercel.app/)
 
-- 📫 How to reach me **pugehok322@gmail.com**
+- 📫 Моя почта, для связи: **pugehok322@gmail.com**
 
 
 
